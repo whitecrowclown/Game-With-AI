@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\VisualStudio\\day001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD76AE1-CEFF-437B-B077-B88E85FD1084}|ch01\\ch01.csproj|d:\\visualstudio\\day001\\ch01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD76AE1-CEFF-437B-B077-B88E85FD1084}|ch01\\ch01.csproj|solutionrelative:ch01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D99F8446-EA1F-ED68-A592-919CD8C14888}|ch01\\ch01.csproj|d:\\visualstudio\\day001\\ch01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99F8446-EA1F-ED68-A592-919CD8C14888}|ch01\\ch01.csproj|solutionrelative:ch01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,18 +24,10 @@
               "RelativeDocumentMoniker": "ch01\\Program.cs",
               "ToolTip": "D:\\VisualStudio\\day001\\ch01\\Program.cs",
               "RelativeToolTip": "ch01\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAwDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T01:20:00.442Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
