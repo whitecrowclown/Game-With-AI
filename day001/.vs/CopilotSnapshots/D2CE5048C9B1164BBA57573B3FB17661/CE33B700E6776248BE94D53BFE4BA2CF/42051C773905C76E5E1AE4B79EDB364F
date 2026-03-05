@@ -1,0 +1,21 @@
+﻿namespace ch01
+
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Player p = new Player();
+            p.Attack();
+        }
+    }
+
+    class Player
+    {
+        int hp = 10;
+        void Attack()
+        {
+            Console.WriteLine("Player attacks!");
+        }
+    }
+}
